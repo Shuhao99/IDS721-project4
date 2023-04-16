@@ -24,5 +24,5 @@ src: https://www.gravityautossandysprings.com/galleria_images/4193/4193_main_l.j
 
 - Here is the result:
 
-![Result](./img/80937db678a8ed55a33a5c60687c0ca.png)
+![Result](./img/result.png)
 
