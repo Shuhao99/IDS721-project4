@@ -16,3 +16,13 @@ An Object detection API using sagemaker and API gateway.
 - Deploy API and tesing use curl
 
 # Demo
+
+- I randomly picked an image of benz from internet to test our API:
+<img src="https://www.gravityautossandysprings.com/galleria_images/4193/4193_main_l.jpg" alt="Cute cat" width="50%" height="50%">
+
+src: https://www.gravityautossandysprings.com/galleria_images/4193/4193_main_l.jpg
+
+- Here is the result:
+
+![Result](./img/80937db678a8ed55a33a5c60687c0ca.png)
+
